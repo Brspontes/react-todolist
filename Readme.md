@@ -56,4 +56,4 @@ yarn test
 ```
 
 <h2>License</h2>
-<a href="https://github.com/herbsjs/herbs2gql/blob/master/LICENSE">MIT</a>
+<a href="https://github.com/Brspontes/todolist-react/blob/master/LICENSE">MIT</a>
